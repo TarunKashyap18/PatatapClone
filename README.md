@@ -1,1 +1,1 @@
-# PatatapClone [link](http://patatap.bitballoon.com/)
+# PatatapClone [link](http://patatap18.netlify.com/)
